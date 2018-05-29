@@ -1,11 +1,13 @@
 {
   "name": "redux-saga-account-kit",
+  "email" : "projects@simon-robert.fr",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
     "fs": "^0.0.1-security",
     "react": "^16.2.0",
+    "react-bootstrap": "^0.32.1",
     "react-dom": "^16.2.0",
     "react-facebook-account-kit": "^0.1.1",
     "react-redux": "^5.0.7",
