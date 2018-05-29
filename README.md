@@ -34,6 +34,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import AccountKit from 'react-facebook-account-kit';
 
+import {APP_ID, APP_VERSION, CSRF} from "./config/globals";
+
 ReactDOM.render(
     <AccountKit
         appId={APP_ID}
